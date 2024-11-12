@@ -10,6 +10,6 @@ public class InventoryServiceApplication {
 		SpringApplication.run(InventoryServiceApplication.class, args);
 	}
 
-	//flyware, mysql, test
+	//flyway, mysql, test
 
 }
