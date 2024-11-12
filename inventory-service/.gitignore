@@ -1,0 +1,8 @@
+# Ignore MySQL data files
+docker/mysql/data/
+
+# Ignore IntelliJ IDEA settings and other IDE-related files
+.idea/
+
+# Ignore Docker-related files if not needed
+mysql/
