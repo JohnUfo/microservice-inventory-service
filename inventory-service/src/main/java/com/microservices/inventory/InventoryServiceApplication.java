@@ -11,5 +11,4 @@ public class InventoryServiceApplication {
 	}
 
 	//flyway, mysql, test
-
 }
